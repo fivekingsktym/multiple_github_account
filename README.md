@@ -1,4 +1,5 @@
 # Multiple github account
+
 ## Configuration for multiple github account
 
 ### Step 1
@@ -97,3 +98,9 @@ git push
      
 git pull
 ```
+
+
+
+
+# Reference :-
+- [https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3#step-3](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3#step-3)
